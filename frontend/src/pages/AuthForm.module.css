@@ -1,0 +1,60 @@
+.header {
+  margin: 30px;
+}
+
+.AuthForm {
+  margin-top: 30%;
+}
+
+.formInput {
+  border: 1px;
+  border-style: ridge;
+  border-radius: 10px;
+  margin: 20px 20px 5px 20px;
+  padding: 5px 8px;
+}
+
+.formLabel {
+  position: absolute;
+  font-size: 16px;
+}
+
+.formInput input {
+  border: none;
+  background-color: transparent;
+  padding: 16px 0 0px;
+  outline: 0;
+  font-size: 16px;
+  width: 400px;
+  height: 40px;
+  margin: 10px 0px 0px 18px;
+}
+
+.formLink {
+  text-align: end;
+  margin-right: 20px;
+}
+
+.formLink a {
+  color: black;
+  text-decoration-line: underline;
+}
+
+.formButton {
+  margin: 40px;
+  align-items: center;
+}
+
+.formButton button {
+  background-color: rgb(239, 83, 83);
+  color: white;
+  border-radius: 5px;
+  border: none;
+  width: 150px;
+  height: 40px;
+}
+
+.alternate-link {
+  color: rgb(239, 83, 83);
+  text-decoration-line: underline;
+}
